@@ -1,0 +1,9 @@
+com\bella\start\configuration\MybatisPlusConfig.class
+com\bella\start\bean\Student.class
+com\bella\start\dao\UserMapper.class
+com\bella\start\dao\StudentMapper.class
+com\bella\start\controller\UserController.class
+com\bella\start\sevice\impl\UserServiceImpl.class
+com\bella\start\sevice\UserService.class
+com\bella\start\StartApplication.class
+com\bella\start\bean\User.class
